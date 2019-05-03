@@ -1,0 +1,53 @@
+/* Landscape on smart phones 480px*/
+
+@media screen and (min-width: 480px) {
+    /************ The Column Layout in Contact Section **************/
+
+    .header {
+        font-size: 2.50em;
+    }
+
+    .title {
+        margin-top: 0px;
+    }
+
+    .main-container {
+        display: block;
+    }
+
+    .letter, .show {
+        height: 55px;
+        width: 55px;
+        padding: 20px 1px 0 1px;
+        font-size: var(--font-size-medium);
+    }
+    button {
+        margin: 3px;
+        padding: .5rem 1rem;
+    }
+    #btn__reset {
+        margin-top: 35%;
+    }
+
+}
+
+ /* Desktop screens 660px*/
+@media screen and (min-width: 660px) {
+
+    h2 {
+        font-size: var(--font-size-large);
+    }
+
+    .letter, .show {
+        height: 65px;
+        width: 65px;
+        padding: 20px 1px 0 1px;
+        font-size: 55px;
+    } 
+      
+    button {
+        margin: 6px;
+        border: 1px solid transparent;
+        padding: .5rem 1rem;
+    }  
+}
