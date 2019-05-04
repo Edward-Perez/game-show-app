@@ -48,7 +48,9 @@ h2 {
 }
 
 h1 {
-  font-size: 30px;
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 25px;
+  color: rgb(197, 204, 211);
 }
 
 button {
