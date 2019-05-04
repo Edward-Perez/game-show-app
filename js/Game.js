@@ -149,7 +149,8 @@ class Game {
     }
 
     /**
-     * 
+     * Displays a message to user based on true or false boolean
+     * @param {boolean} -boolean if true user won / if false user loss message is display
      */
     gameOver(bool) {
         this.gameStatus = false;
