@@ -24,7 +24,7 @@
 }
 
 body {
-  background-image: url(../images/forest.jpg);
+  background-image: url(../images/forest.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: #000000;
@@ -176,7 +176,7 @@ button {
 /* Overlay */
 
 #overlay {
-  background-image: url(../images/jaguar.jpg);
+  background-image: url(../images/jaguar.png);
   background-repeat: no-repeat;
   background-size: 100%;
   display: flex;

@@ -2,7 +2,7 @@
 ### Project 4 from the Treehouse Full Stack Javascript TechDegree program. 
 **_Display's knowledge of Object-Oriented Programming with JavaScript._**
 
-This project is a word guessing game named "Phrase Hunter". A user will either click on a onscreen keyboard or type to uncover a hidden phrase. If they failed to uncover any values in the phrase 5x, game is over with a loss. I will use a OOP approach to create install logic, render HTML elements, and validate user inputs.
+This project is a word guessing game named "Phrase Hunter". A user will either click on a onscreen keyboard or type an alphabetical value to uncover a hidden phrase. If they failed to uncover any values in the phrase after 5 attempts the game is over as a loss. I will use a OOP approach to create, install logic, render HTML elements, and validate user inputs.
 
 ### Project Requirements
 * Game Class
@@ -30,9 +30,9 @@ This project is a word guessing game named "Phrase Hunter". A user will either c
 * App styles have been personalized and changes have been noted in the README.md file and the project submission notes
 
 ### Exceeds Ratings HTML/CSS Changes
-* Background images have been placed in body and overlay div
-* Responsive CSS file has been added along with a normalizer.css
-* Fonts have been imported to use on h1 and h2
-* Button 'key' layout receives a bottom white border
-* Show class receives a transparent color to allow background image to flow in
+* Background images have been placed in body and overlay div.
+* Responsive CSS file has been added along with a normalizer.css.
+* Fonts have been imported to use on h1 and h2.
+* Button 'key' layout receives a bottom white border.
+* Show class receives a transparent color to allow background image to flow in.
 
